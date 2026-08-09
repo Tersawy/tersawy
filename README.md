@@ -1,11 +1,12 @@
 # Mohamed Tersawy
 
-I build and run **Golify** — a multi-tenant SaaS ERP for logistics and accounting. I wrote the
-company's original in-house system; when the market turned out to be bigger than one company, I
-led its re-platform into a commercial product.
+Six years building software end to end — the data model, the API, the interface, and the
+infrastructure all of it runs on. I'm most useful where those are one person's problem rather
+than four teams' handoffs.
 
-I own the whole path: the data model, the NestJS API, the Vue 3 applications, and the
-infrastructure and delivery pipeline they run on.
+Right now that means **Golify**, a multi-tenant SaaS ERP for logistics and accounting. I wrote the
+company's original in-house system; when the market turned out to be bigger than one company, I
+led its re-platform into a commercial product, and have owned it since.
 
 **[tersawy.com](https://tersawy.com)** has the long version — how the multi-tenancy works, what a
 double-entry engine actually takes, and how every monetary value moved to Decimal128 against a
