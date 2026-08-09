@@ -8,9 +8,9 @@ Right now that means **Golify**, a multi-tenant SaaS ERP for logistics and accou
 company's original in-house system; when the market turned out to be bigger than one company, I
 led its re-platform into a commercial product, and have owned it since.
 
-**[tersawy.com](https://tersawy.com)** has the long version — how the multi-tenancy works, what a
-double-entry engine actually takes, and how every monetary value moved to Decimal128 against a
-live system without a maintenance window.
+**[tersawy.com](https://tersawy.com)** has the long version — a database per tenant resolved at
+the edge, a double-entry ledger under the whole product, and what it takes to change either of
+them while the system stays up and paying customers keep using it.
 
 Most of my work lives in a private company monorepo, so this profile is a lot quieter than my
 week is. What's here is the overflow.
