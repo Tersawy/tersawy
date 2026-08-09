@@ -1,4 +1,4 @@
-# Mohamed El-Tersawy
+# Mohamed Tersawy
 
 Full-stack developer in Giza, Egypt. Six years of it, mostly on systems where being wrong is
 expensive — orders, ledgers, money that has to reconcile.
